@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "skills": {
+    "design-system": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "b244c0448bff0a891f972672d47df9c47d61ac31",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design-system/SKILL.md",
+      "computedHash": "9efdc106c73d8d298b5a90d55c56995840a37f754fb9d498d14e6562bdaadc23"
+    },
+    "tailwind-design-system": {
+      "source": "wshobson/agents",
+      "commit": "c96b5f6552dba32e4492307493ee613581430715",
+      "sourceType": "github",
+      "skillPath": "plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md",
+      "computedHash": "c807f0c9619e8c389879f55846c2e395956f1073ab6d01a93fbb30b340015ab1"
+    }
+  }
+}
